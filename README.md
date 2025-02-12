@@ -1,4 +1,5 @@
 # Proyek-SIJARTA
+SIJARTA adalah sebuah platform digital yang dirancang untuk memudahkan pencarian, pemesanan, dan manajemen layanan rumah tangga seperti asisten rumah tangga, jasa kebersihan, dan perbaikan rumah. Sistem ini biasanya mencakup fitur seperti pencocokan layanan berdasarkan kebutuhan pengguna, ulasan pelanggan, serta sistem pembayaran yang terintegrasi untuk meningkatkan efisiensi dan transparansi dalam penyediaan jasa rumah tangga.
 
 ## Tugas Kelompok 3
 **Basis Data B - BASDUDES**
