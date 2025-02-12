@@ -3,9 +3,10 @@
 ## Tugas Kelompok 3
 **Basis Data B - BASDUDES**
 
-| Nama | NPM | Fitur |
-| -- | -- | -- |
-| Rakabima Ghaniendra Rusdianto | 2306228472 | Hijau |
-| Gilbert Kristian | 2306274951 | Kuning |
-| Ivan Jehuda Angi | 2306152222 | Biru |
-| Krisna Putra Purnomo | 2306228756 | Merah |
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+| Nama | Fitur |
+| Rakabima | Hijau |
+| Gilbert | Kuning |
+| Ivan | Biru |
+| Krisna | Merah |
